@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.zip
+*.log
+.env
+package-lock.json
+BITZXIER-SRC-main/
+!BITZXIER-SRC-main/package.json
+!BITZXIER-SRC-main/index.js
+!BITZXIER-SRC-main/structures/
+!BITZXIER-SRC-main/commands/
+!BITZXIER-SRC-main/events/
